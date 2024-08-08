@@ -1,0 +1,9 @@
+﻿type,title,category,language,authors,isbn_or_format,year_published
+Book,Autumn Leaves,Romance Novel,English,Orion Frostfield,978-6-0412-8296-4,2019
+Book,Sea and the Behemoth,Fantasy,English,"Kiera Ravenwing, Jaxon Nightshade",978-3-5740-6514-9,1986
+Book,The Heirs of the Frontier,Historical Fiction,Mandarin,Thorne Stormrider,978-5-2418-2872-9,2011
+Book,Case of the Blue Ferret,Graphic Novel,English,Darius Ravencroft,978-2-0971-3827-9,2023
+Periodical,Bluebird,Lifestyle,English,Ryker Thunderheart,NIL,1965
+Periodical,All about Python,Technology,English,Vinícius Peder,NIL,2023
+Audiobook,Whispers of the Forest,Mystery,Spanish,Evelia Flor,MP3,2019
+Audiobook,The Shadow of Deception,Crime Fiction,Korean,Ji-Yeong,MP3,2018
